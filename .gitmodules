@@ -1,0 +1,6 @@
+[submodule "SGFTP-Frontend"]
+	path = SGFTP-Frontend
+	url = https://github.com/Billy-Ugalde/SGFTP-Frontend.git
+[submodule "SGFTP-Backend"]
+	path = SGFTP-Backend
+	url = https://github.com/Billy-Ugalde/SGFTP-Backend.git
